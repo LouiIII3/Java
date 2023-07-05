@@ -1,6 +1,6 @@
 package sec02.exam;
 
-public class EXAMPLE_1 {
+public class IntegerTypeExample {
 
 	public static void main(String[] args) {
 		int var1 = 0b1011;
