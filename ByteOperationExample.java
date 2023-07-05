@@ -1,6 +1,6 @@
 package sec02.exam;
 
-public class Example06 {
+public class ByteOperationExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
