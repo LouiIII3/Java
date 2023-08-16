@@ -1,0 +1,23 @@
+package sec15.exam01;
+import java.util.*;
+
+public class ArrayListExample {
+
+	public static void main(String[] args) {
+		List<String> list = new ArrayList<String>();
+		
+		list.add("Hi");
+		list.add("Hello");
+		
+		int size = list.size();
+		
+		list.remove(0);
+		list.add(1, "Java");
+		System.out.println("총 갯수: " + size);
+		for(int i = 0; i < list.size(); i++) {
+			String str = list.get(i);
+			System.out.println(str);
+		}
+	}
+
+}
