@@ -3,7 +3,6 @@ package secfin.exam01;
 
 import java.io.*;
 
-
 public class GetLineStringFromKeyboard {
 	public static void main(String[] args)  throws Exception {
 		InputStream is = System.in;
