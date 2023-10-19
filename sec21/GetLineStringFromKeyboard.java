@@ -1,6 +1,4 @@
 package secfin.exam01;
-
-
 import java.io.*;
 
 public class GetLineStringFromKeyboard {
