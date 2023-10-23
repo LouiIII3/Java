@@ -1,5 +1,4 @@
 package sec19.exam01;
-
 import java.io.FileWriter;
 import java.io.Writer;
 
