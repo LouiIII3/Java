@@ -1,5 +1,4 @@
 package sec07.exam01;
-
 public class Child extends Parent {
 	private String name;
 	
